@@ -4,11 +4,6 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*
-
-# Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
-
 # Runtime data
 pids
 *.pid
@@ -20,13 +15,10 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
-*.lcov
-
 # nyc test coverage
 .nyc_output
 
-# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+grunt
 
 # Bower dependency directory (https://bower.io/)
 bower_components
@@ -99,3 +91,6 @@ public
 
 # TernJS port file
 .tern-port
+
+# next.js build output
+.next
