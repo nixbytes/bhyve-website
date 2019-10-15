@@ -16,7 +16,7 @@ Basically its a fan base for the project in hope.
 - Logo made by me :) and TheVectorLab
 
 
-preview of site link ![Byhve Demo](https://linuxbytes.github.io/bhyve-website/)
+preview of site link ![Byhve Demo](https://linuxbytes.github.io/bhyve-website)
 
 
 ## Usage
