@@ -10,7 +10,7 @@ Basically its a fan base for the project in hope.
 
 ### Credit due to the following
 
-- FreeBsd and Bhyve proect
+- FreeBsd and Bhyve project
 - bootstrap 4 free template
 - Unslash images
 - Logo made by me :) and TheVectorLab
@@ -35,3 +35,6 @@ After installation, run `npm install` and then run `npm start` which will open u
 - `gulp vendor` copies dependencies from node_modules to the vendor directory
 
 You must have npm installed globally in order to use this build environment.
+
+Source links 
+
